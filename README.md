@@ -1,13 +1,19 @@
 metrics_talk
 ============
 
-Gathering and visualizing metrics with ZeroMQ, Redis &amp; Graphite
+Gathering and visualizing metrics with ZeroMQ, Redis & Graphite
+
+I gave this talk at PyCon Japan in September, 2012.
+
+Video: http://www.youtube.com/watch?v=FTGdLnx_ep0
 
 
 Server setup
 ============
 
-These scripts were tested on: Ubuntu server 12.04:
+These scripts were tested on Ubuntu server 12.04
+
+Install prerequisites:
 
     $ sudo apt-get install python-redis redis-server
     $ sudo apt-get install memcached python-dev python-pip sqlite3 libcairo2 libcairo2-dev python-cairo pkg-config 
