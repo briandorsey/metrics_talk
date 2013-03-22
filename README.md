@@ -5,7 +5,7 @@ Gathering and visualizing metrics with ZeroMQ, Redis & Graphite
 
 I gave this talk at PyCon Japan in September, 2012.
 
-Video: http://www.youtube.com/watch?v=FTGdLnx_ep0
+Video: http://youtu.be/FTGdLnx_ep0?t=3m25s
 
 
 Server setup
